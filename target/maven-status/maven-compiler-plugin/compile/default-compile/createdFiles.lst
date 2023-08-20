@@ -1,9 +1,0 @@
-com\adp\ihcm\AdpAwsClient\S3ObjectUpload$MultiPartFileUploader.class
-com\adp\ihcm\AdpAwsClient\SamlAuthenticator.class
-com\adp\ihcm\AdpAwsClient\S3ObjectUpload.class
-com\adp\ihcm\AdpAwsClient\S3ObjectUpload$UploadProgressListener.class
-com\adp\ihcm\AdpAwsClient\SamlSessionCredentials$1.class
-com\adp\ihcm\AdpAwsClient\App.class
-com\adp\ihcm\AdpAwsClient\SamlSessionCredentials.class
-com\adp\ihcm\AdpAwsClient\S3ObjectDownload.class
-com\adp\ihcm\AdpAwsClient\S3ObjectOperations.class
